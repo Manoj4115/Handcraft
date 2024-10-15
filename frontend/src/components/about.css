@@ -1,0 +1,47 @@
+
+  /* Heading styles */
+  .ab {
+    font-size: 36px;
+    font-weight: bold;
+    color: #4CAF50; /* You can change this to match your brand color */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .wel {
+    font-size: 28px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  /* Paragraph styling */
+  .abo {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 20px;
+    padding: 0 15px;
+    line-height: 1.8;
+  }
+  
+  /* Adding some style to the section titles */
+  .abo strong {
+    font-weight: bold;
+    color: #000;
+  }
+  
+  /* Responsive design for better readability on small devices */
+  @media (max-width: 768px) {
+    .ab {
+      font-size: 30px;
+    }
+  
+    .wel {
+      font-size: 24px;
+    }
+  
+    .abo {
+      font-size: 14px;
+    }
+  }
+  

@@ -1,0 +1,30 @@
+
+.nab{
+  margin: 0px 590px;
+}
+.nab ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .nab ul a {
+    text-decoration: none;
+    color: #0a0a0a;
+    font-weight: bold;
+    padding: 9px 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .nab ul a:hover {
+    background-color: #ddd;
+    border-radius: 8px;
+  }
+  .im1{
+    width: 200px;
+    float: left;
+    height: 200px;
+    position: relative;
+    margin-top: 85px;
+  }
